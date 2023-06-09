@@ -32,10 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CASRVCoreInterfaces">
-      <HintPath>..\..\libs\CASRVCoreInterfaces.dll</HintPath>
+      <HintPath>..\..\v1.1.4.0\CASRVCoreInterfaces.dll</HintPath>
     </Reference>
     <Reference Include="NLog">
-      <HintPath>..\..\libs\NLog.dll</HintPath>
+      <HintPath>..\..\v1.1.4.0\NLog.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.Composition" />

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <DataTV>
+    <ArcType>4</ArcType>
+    <dtMeasure>2023-06-08T07:54:02.0282369+03:00</dtMeasure>
+    <NS>false</NS>
+  </DataTV>
+  <DataTR>
+    <ArcType>4</ArcType>
+    <TRNumber>1</TRNumber>
+    <dtMeasure>2023-06-08T07:54:02.0282369+03:00</dtMeasure>
+    <NSCodes>00000000000</NSCodes>
+    <G>0</G>
+    <G_UOM>м3/ч</G_UOM>
+    <Vel>0</Vel>
+    <Vel_UOM>м/с</Vel_UOM>
+  </DataTR>
+  <DataTR>
+    <ArcType>4</ArcType>
+    <TRNumber>2</TRNumber>
+    <dtMeasure>2023-06-08T07:54:02.0282369+03:00</dtMeasure>
+    <G>31.68299</G>
+    <G_UOM>т/ч</G_UOM>
+    <Vel>0.2729618</Vel>
+    <Vel_UOM>Вода</Vel_UOM>
+  </DataTR>
+  <resultParametersTable>
+    <ParameterName>SrvErrorCode</ParameterName>
+    <ParameterValue>0</ParameterValue>
+  </resultParametersTable>
+  <resultParametersTable>
+    <ParameterName>TimeRead</ParameterName>
+    <ParameterValue>08.06.2023 7:54:02</ParameterValue>
+  </resultParametersTable>
+  <resultParametersTable>
+    <ParameterName>TypeArch</ParameterName>
+    <ParameterValue>4</ParameterValue>
+  </resultParametersTable>
+  <resultParametersTable>
+    <ParameterName>FullArchive</ParameterName>
+    <ParameterValue>True</ParameterValue>
+  </resultParametersTable>
+  <resultParametersTable>
+    <ParameterName>CurrentTimeDevice</ParameterName>
+  </resultParametersTable>
+</Root>
